@@ -5,6 +5,6 @@ git clone https://github.com/elecV2/elecV2P.git
 cd elecV2P
 yarn
 cd ~
-wget -N "https://raw.githubusercontent.com/shoujiyanxishe/elecV2Psh/main/termux/v2p.sh"
+wget -N "https://raw.githubusercontent.com/X156/v2pnb666/main/termux/v2p.sh"
 chmod +x v2p.sh
 rm install.sh
